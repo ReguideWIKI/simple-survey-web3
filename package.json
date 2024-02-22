@@ -1,6 +1,6 @@
 {
-  "name": "surveyjs-react-client",
-  "version": "0.1.0",
+  "name": "@reguidewiki/simple-survey-web3",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -71,5 +71,21 @@
       "react-router": "6.3.0",
       "history": "5.3.0"
     }
-  }
+  },
+  "description": "This project is a client-side React application that uses [SurveyJS](https://surveyjs.io/) components. The application displays a list of surveys with the following buttons that perform actions on the surveys:",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReguideWIKI/simple-survey-web3.git"
+  },
+  "keywords": [
+    "Simple",
+    "Survey"
+  ],
+  "author": "ReGuide Wiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReguideWIKI/simple-survey-web3/issues"
+  },
+  "homepage": "https://github.com/ReguideWIKI/simple-survey-web3#readme"
 }
