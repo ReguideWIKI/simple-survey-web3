@@ -1,7 +1,6 @@
 {
   "name": "@reguidewiki/simple-survey-web3",
-  "version": "0.0.2",
-  "private": true,
+  "version": "0.1.2",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
@@ -33,7 +32,8 @@
     "survey-react-ui": "latest",
     "typescript": "^4.6.3",
     "web-vitals": "^2.1.4",
-    "web3": "^4.5.0"
+    "web3": "^4.5.0",
+    "@rewikipx/simple-rewiki-tstacktable": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
