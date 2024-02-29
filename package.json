@@ -1,6 +1,6 @@
 {
   "name": "@reguidewiki/simple-survey-web3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -76,7 +76,7 @@
   "main": "index.tsx",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReguideWIKI/simple-survey-web3.git"
+    "url": "https://github.com/ReguideWIKI/simple-survey-web3.git"
   },
   "keywords": [
     "Simple",
